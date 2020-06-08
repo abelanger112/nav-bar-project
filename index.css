@@ -1,0 +1,23 @@
+  * {
+      box-sizing: border-box;
+      border: 1px solid black !important;
+  }
+  
+  .topnav {
+    display: flex;
+    justify-content: flex-end;
+    margin: 10px 10px;
+    padding: 10px 5px;
+    text-decoration: none;
+
+    
+  }
+
+  .topnav a {
+    padding: 5px 10px;
+  }
+
+
+  
+ 
+  
